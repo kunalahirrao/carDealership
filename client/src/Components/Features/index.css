@@ -1,0 +1,25 @@
+.box {
+    float: left;
+    width: 33.33%;
+    padding: 80px;
+    text-align: center;
+  }
+  
+  .box i {
+    margin-bottom: 10px;
+  }
+
+  .bg-dark {
+    background: #333;
+    color: #fff;
+  }
+  
+  .bg-light {
+    background: #f4f4f4;
+    color: #333;
+  }
+  
+  .bg-primary {
+    color: #333;
+    background: #f7c08a;
+  }
